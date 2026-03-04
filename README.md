@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
+I guess this iw where im supposed to wrote stuff about my self but the instructions are so BAD i dont really understand...
